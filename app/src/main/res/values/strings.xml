@@ -1,18 +1,18 @@
 <resources>
     <string name="app_name">Auth Project</string>
 
-    <string name="facebook_app_id">663212145873518</string>
-    <string name="fb_login_protocol_scheme">fb663212145873518</string>
-    <string name="facebook_client_token">56789</string>
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+    <string name="facebook_client_token"></string>
 
-    <string name="google_client_id">2935833342-r8i2d410rtva1ejs8c4s5rolhl6h20fj.apps.googleusercontent.com</string>
+    <string name="google_client_id"></string>
 
-    <string name="instagram_client_id">998557821431170</string>
-    <string name="instagram_client_secret">b28733079638fc81f072dbbebcee05e7</string>
-    <string name="instagram_redirect_url">https://socialsizzle.herokuapp.com/auth/</string>
+    <string name="instagram_client_id"></string>
+    <string name="instagram_client_secret"></string>
+    <string name="instagram_redirect_url"></string>
 
-    <string name="linkedin_client_id">7736pl2jbaipk4</string>
-    <string name="linkedin_client_secret">bgq43XQozMJ5NbYM</string>
-    <string name="linkedin_redirect_url">https://www.linkedin.com/developers/tools/oauth/redirect</string>
+    <string name="linkedin_client_id"></string>
+    <string name="linkedin_client_secret"></string>
+    <string name="linkedin_redirect_url"></string>
 
 </resources>
